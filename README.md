@@ -1,6 +1,10 @@
 ### Hi there 👋
+🔭 About me!
 
+I’m Systems engineer with MCP certified, I have more than 13 years of experience as a .Net software developer, with skills to identify customer’s needs playing the product owner (PO) role, I have the ability to perform analysis, design and development software, management technical services suppliers; I have increased by 56% the use of an international logistics web platform after implementing online payment processes represented in monthly transactions worth $ 284,867 USD; I have the capabilities to direct the activities of the IT area regarding support and maintenance of applications; I have more than 6 year’s experience in the management and planning software development projects as project manager, using tools such as MS-Project, Kanban, SharePoint, Jira, VSTS, GitLab, GitHub, Click-Up; using Scrum and PMP methodologies.
 <!--
+
+
 **Rokoman918/Rokoman918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
